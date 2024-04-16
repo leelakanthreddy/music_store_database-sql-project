@@ -1,0 +1,22 @@
+Music store database management
+Project is about the statistics of an artist and albums.
+Created diverse SQL query to find the album sales, revenue and shares of an individual artist for each genre and country through invoice of customers.
+
+goal of the project
+
+group - A
+Return your list ordered alphabetically by email starting with A
+Let's invite the artists who have written the most rock music in our dataset.
+Return the Name and Milliseconds for each track. 
+
+group - B
+Who_is the senior most employee based_on job title.
+Which countries have the most Invoices.
+What are top 3 values_of total invoice.
+Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money.
+who is the best customer? The customer who has spent the most money will be declared the best customer.
+
+group - C
+ Find how much amount spent by each customer on artists? 
+Write a query that determines the customer that has spent the most on music for each country.
+ We want to find out the most popular music Genre for each country.
